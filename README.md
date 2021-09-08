@@ -10,6 +10,6 @@ The file `SSLP.py` is the entrance to the framework algorithm of this paper.
 Evaluation code is `CDTool.py`,which will be called in `SSLP.py`.
 
 ## Data set description
-The data set used is saved in folder `data` and the weak prior knowledge is saved as 'xx.py ' file.
+The data set used is saved in folder `data` and the weak prior knowledge is saved as 'xx.py' file.
 
 
