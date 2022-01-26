@@ -1,5 +1,5 @@
 # Semi-supervised Label Propagation(SSLP)
-This is the avaiable code for the paper ["Semi-supervised Label Propagation for Heterogeneous Remote Sensing Images Change Detection"]. It presents a semi-supervised Label Propagation approach (SSLP) for heterogeneous remote sensing images change detection.
+This is the avaiable code for the paper ["Semi-supervised Label Propagation for Multi-source Remote Sensing Image Change Detection"]. It presents a semi-supervised Label Propagation approach (SSLP) for heterogeneous remote sensing images change detection.
 ## Requirements
 It just use some common python dependencies.
 
